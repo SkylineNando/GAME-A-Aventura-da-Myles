@@ -4,7 +4,7 @@
 
 ![Tela título](screenshots/00-titulo.png)
 
-**▶️ Jogar:** abra o `index.html` no navegador ou ative o **GitHub Pages** no repositório (veja [Publicando no GitHub](#-publicando-no-github)).
+**▶️ Jogar:** abra o `index.html` no navegador ou ([veja aqui](https://skylinenando.github.io/GAME-A-Aventura-da-Myles)).
 
 ---
 
