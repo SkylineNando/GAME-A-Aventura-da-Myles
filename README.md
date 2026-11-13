@@ -369,7 +369,6 @@ aventura-da-myles/
 ## 📝 Créditos e licença
 
 - **Criação e direção:** [SkylineNando](https://github.com/SkylineNando)
-- **Programação e arte procedural:** desenvolvidas com auxílio de IA (Claude, da Anthropic)
 - **Fontes:** Cormorant Garamond e Nunito (Google Fonts, licença SIL Open Font License)
 
 Código distribuído sob a licença **MIT**; veja [`LICENSE`](LICENSE).
